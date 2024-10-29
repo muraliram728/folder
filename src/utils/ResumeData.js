@@ -2,7 +2,7 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LanguageIcon from '@mui/icons-material/Language';
 import SharePoint1 from '../assets/images/sharpointProject1.jpg';
-import PowerAutomate1 from '../assets/images/MIcrosoft-power-automate-2.png';
+import PowerAutomate1 from '../assets/images/MIcrosoft-power-automate-2.jpg';
 
 
 export default {
