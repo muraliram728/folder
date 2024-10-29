@@ -58,3 +58,10 @@
 .MuiTimelineConnector-root {
     margin-top: -5px !important; /* Negative margin to bring the connector closer to the dot */
 }
+
+.css-628fjv::before{
+     display: none !important;
+}
+.css-628fjv {
+    min-height: 0px !important;
+}
