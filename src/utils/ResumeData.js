@@ -1,7 +1,9 @@
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LanguageIcon from '@mui/icons-material/Language';
-import SharePoint1 from '../assets/images/sharpointProject1.jpg'
+import SharePoint1 from '../assets/images/sharpointProject1.jpg';
+import PowerAutomate1 from '../assets/images/MIcrosoft-power-automate-2.png';
+
 
 export default {
     name: 'MURALI.R',
@@ -105,7 +107,7 @@ export default {
         {
     tag: 'PowerPlatform',
     title: 'Approval Process Automation',
-    image: 'https://tse4.mm.bing.net/th?id=OIP.0v0WSI9bszvLAmV1lus4-wHaDt&pid=Api&P=0&h=180',
+    image: PowerAutomate1,
     caption: 'Automating the approval workflow using Power Automate',
     description: `
         This project implements a multi-level approval process using Power Automate.
