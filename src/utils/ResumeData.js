@@ -103,17 +103,24 @@ export default {
             ]
         },
         {
-            tag:'PowerPlatform',
-            title:'In Progress',
-            image:'https://tse4.mm.bing.net/th?id=OIP.0v0WSI9bszvLAmV1lus4-wHaDt&pid=Api&P=0&h=180',
-            caption:'A short description',
-            description:'this is my project',
-            link:[
-                {link: 'https://github.com/muraliram728/my-repo', icon: <GitHubIcon />},
-                {link: 'https://github.com/muraliram728', icon: <LanguageIcon />}
-
-            ]
-        }
+    tag: 'PowerPlatform',
+    title: 'Approval Process Automation',
+    image: 'https://tse4.mm.bing.net/th?id=OIP.0v0WSI9bszvLAmV1lus4-wHaDt&pid=Api&P=0&h=180',
+    caption: 'Automating the approval workflow using Power Automate',
+    description: `
+        This project implements a multi-level approval process using Power Automate.
+        It utilizes three SharePoint lists: 
+        1. **Approval Matrix** - Contains approver details.
+        2. **Workflow History Details** - Tracks the approval status and details.
+        3. **Approval Mail Content** - Stores dynamic email content based on the approval status.
+        
+        Notifications are sent to the next approver via Outlook, ensuring seamless communication throughout the approval workflow.
+    `,
+    link: [
+        { link: 'https://github.com/muraliram728/my-repo', icon: <GitHubIcon /> },
+        { link: 'https://github.com/muraliram728', icon: <LanguageIcon /> }
+    ]
+}
     ]
 
 
