@@ -1,0 +1,60 @@
+.Timeline {
+    padding: 0 !important;
+}
+
+/*Header*/
+
+
+/* Header Title */
+.Timeline .Timeline_header {
+    padding-top: 7px !important;
+}
+
+.Timeline .Timeline_firstitem {
+    min-height: 80px !important;
+}
+
+.Timeline .css-1ms7hib-MuiTimelineItem-root {
+    min-height: 0px !important;
+}
+
+.Timeline .css-1ms7hib-MuiTimelineItem-root::before {
+    display: none !important;
+}
+
+.Timeline .Timeline_dot_header {
+    color: black !important;
+    background-color: var(--main-color) !important;
+    font-size: small !important;
+    padding: 10px !important;
+}
+
+/* Remaining Items */
+.Timeline .Timeline_dot {
+    color: black !important;
+    border-color: var(--main-color) !important;
+    padding: 2px !important;
+}
+
+.Timeline .css-1ami7lv-MuiTimelineConnector-root {
+    background-color: #eee !important;
+}
+
+.Timeline .separator_padding{
+    padding-left: 18px !important;
+}
+
+.timeline .timeline_content {
+    padding-top: 0px !important;
+    margin-bottom: 20px !important;
+}
+
+.Timeline_dot {
+    margin-bottom: 8
+    px !important; /* Reduce margin to zero between dot and connector */
+    padding: 5px !important; /* Adjust padding as needed */
+}
+
+.MuiTimelineConnector-root {
+    margin-top: -5px !important; /* Negative margin to bring the connector closer to the dot */
+}
