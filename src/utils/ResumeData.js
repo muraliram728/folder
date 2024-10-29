@@ -119,7 +119,7 @@ export default {
         Notifications are sent to the next approver via Outlook, ensuring seamless communication throughout the approval workflow.
     `,
     link: [
-        { link: 'https://github.com/muraliram728/my-repo', icon: <GitHubIcon /> },
+        { link: 'https://github.com/muraliram728/Power-Automate/tree/main', icon: <GitHubIcon /> },
         { link: 'https://github.com/muraliram728', icon: <LanguageIcon /> }
     ]
 }
