@@ -7,7 +7,7 @@ import PowerAutomate1 from '../assets/images/MIcrosoft-power-automate-2.jpg';
 
 export default {
     name: 'MURALI.R',
-    title: 'Sharepoint Developer',
+    title: 'Web Developer',
 
 
     birthday: '17th december 2001',
@@ -28,14 +28,19 @@ export default {
         },
     },
 
-    about: "I am a SharePoint and Power Automate Developer with expertise in the SharePoint Framework (SPFx) and RESTful APIs, creating custom web parts and automating business processes. I also have experience optimizing Power Automate flows for tasks such as list retrieval, folder creation, and workflow management.\n\n In addition to my SharePoint and Power Automate skills, I am proficient in the MERN stack (MongoDB, Express.js, React, Node.js) and am actively seeking opportunities in web development to apply my skills in a broader context. \n\n Let’s connect if you’re looking for a versatile developer with a strong foundation in both SharePoint solutions and modern web technologies.",
+    about: "I am a React Developer with experience in creating dynamic, responsive web applications using the MERN stack. My expertise includes building scalable front-end components with React and managing state effectively with Redux. \n\n Additionally, I have experience in SharePoint and Power Automate development, creating custom solutions that streamline workflows and improve user experiences. This unique combination of skills enables me to offer well-rounded web solutions that integrate seamlessly with existing business platforms.\n\n Let's connect if you're looking for a React Developer with a solid foundation in both modern web development and business process automation.",
 
     Experiences: [
         {
             companyName: 'TechnomaX Systems',
-            title: 'SharePoint Developer & Power Automate Specialist',
+            title: 'React Developer & SharePoint Developer',
             date: 'Aug 2023 - Present',
-            description: 'Designed and deployed custom web parts using SharePoint Framework (SPFx), utilizing RESTful APIs to integrate and display list and library items. \n\n Developed Power Automate workflows to automate business processes, enhancing efficiency and user experience across platforms.'
+            description:`
+                - Built user-friendly interfaces with React for internal applications, optimizing performance and accessibility.\n
+                - Created REST API integrations for seamless data flow between front-end React components and back-end services.\n
+                - Designed and deployed custom web parts using SharePoint Framework (SPFx) for enhanced collaboration.\n
+                - Developed Power Automate workflows to automate key business processes, improving efficiency across teams.
+            `
         }
     ],
 
