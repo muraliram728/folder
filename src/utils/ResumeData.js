@@ -28,7 +28,7 @@ export default {
         },
     },
 
-    about: "I am a React Developer with experience in creating dynamic, responsive web applications using the MERN stack. My expertise includes building scalable front-end components with React and managing state effectively with Redux. \n\n Additionally, I have experience in SharePoint and Power Automate development, creating custom solutions that streamline workflows and improve user experiences. This unique combination of skills enables me to offer well-rounded web solutions that integrate seamlessly with existing business platforms.\n\n Let's connect if you're looking for a React Developer with a solid foundation in both modern web development and business process automation.",
+    about: "I am a React Developer with experience in creating dynamic, responsive web applications. My expertise includes building scalable front-end components with React and effectively managing state with tools like Redux.\n\n Additionally, I have experience in SharePoint and Power Automate development, creating custom solutions that streamline workflows and improve user experiences. This unique combination of skills enables me to offer well-rounded web solutions that integrate seamlessly with existing business platforms.\n\n Let's connect if you're looking for a React Developer with a solid foundation in modern web development and business process automation.",
 
     Experiences: [
         {
