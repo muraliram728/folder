@@ -61,7 +61,7 @@ const Profile = () => {
         </CustomTimeLine>
 
         <div className='button_container'>
-          <a href={`${process.env.PUBLIC_URL}/Murali Ram_ Resume.pdf`} download>
+          <a href={`${process.env.PUBLIC_URL}/Murali Ram_ Resume .pdf.pdf`} download>
             <Button text={'Download CV'} icon={<GetAppSharpIcon />} />
           </a>
         </div>
