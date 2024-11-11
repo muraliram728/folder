@@ -36,10 +36,8 @@ export default {
             title: 'React Developer & SharePoint Developer',
             date: 'Aug 2023 - Present',
             description:`
-                 Built user-friendly interfaces with React for internal applications, optimizing performance and accessibility.\n
-                 Created REST API integrations for seamless data flow between front-end React components and back-end services.\n
-                 Designed and deployed custom web parts using SharePoint Framework (SPFx) for enhanced collaboration.\n
-                 Developed Power Automate workflows to automate key business processes, improving efficiency across teams.
+                 Utilized SharePoint Framework (SPFx) to design and deploy custom web parts, leveraging RESTful APIs to retrieve and display list and library items, enhancing user interaction and data accessibility\n
+                 Created and optimized Power Automate flows to automate various business processes, including retrieving list items, creating folders in libraries, sending automated emails, and managing approval workflows
             `
         }
     ],
