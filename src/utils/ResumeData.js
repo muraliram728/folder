@@ -7,7 +7,7 @@ import PowerAutomate1 from '../assets/images/MIcrosoft-power-automate-2.jpg';
 
 export default {
     name: 'MURALI.R',
-    title: 'Web Developer',
+    title: 'SharePoint Developer',
 
 
     birthday: '17th december 2001',
@@ -28,7 +28,7 @@ export default {
         },
     },
 
-    about: "I am a React Developer with experience in creating dynamic, responsive web applications. My expertise includes building scalable front-end components with React and effectively managing state with tools like Redux.\n\n Additionally, I have experience in SharePoint and Power Automate development, creating custom solutions that streamline workflows and improve user experiences. This unique combination of skills enables me to offer well-rounded web solutions that integrate seamlessly with existing business platforms.\n\n Let's connect if you're looking for a React Developer with a solid foundation in modern web development and business process automation.",
+    about: "I am a SharePoint and Power Automate Developer. I create custom SharePoint solutions using SPFx to improve user experience and data access. I also build Power Automate flows to automate tasks like approvals, sending emails, and managing lists.\n\n Additionally, I develop workflows and data integration solutions to help manage documents and streamline business processes.\n\nLet’s connect if you're looking for a SharePoint and Power Platform Developer with a strong background in business process automation and custom solutions.",
 
     Experiences: [
         {
