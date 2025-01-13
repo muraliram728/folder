@@ -22,7 +22,7 @@ export default {
             icon: <LinkedInIcon />
         },
         github: {
-            link: "https://github.com/muraliram728/my-repo",
+            link: "https://github.com/muraliram728",
             text: 'Github',
             icon: <GitHubIcon />
         },
